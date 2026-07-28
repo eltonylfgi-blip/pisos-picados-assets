@@ -10,3 +10,5 @@ Public, versioned visual assets used by the PISOS PICADOS Discord server and its
 - `brawl/urgency/hockey-falta-1.png`
 
 The bot consumes the direct `raw.githubusercontent.com` URLs so images remain stable instead of relying on expiring Discord attachment URLs.
+
+All four public banners include the visible ownership watermark `.gg/PisosPicados`.
